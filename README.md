@@ -63,4 +63,4 @@ The project was developed using the following libraries and tools:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/repo-name.git
+   git clone https://github.com/CrixusVolcanic/DE_Practice---Cleaning-Bank-Marketing-Data.git
